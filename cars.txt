@@ -2,3 +2,4 @@
 - TOYOTA AE86
 - Subaru Impreza
 - Mazda EfiniRX-7(FD-3S)
+- TOYOTA TURENO GT-APEX(AE86)
